@@ -1,6 +1,6 @@
 # add the following to _config.yml file
 title: Yufei Weng
-logo: assets/images/photo.jpg
+logo: /assets/images/photo.jpg
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
